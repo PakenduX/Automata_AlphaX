@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>automata.qml</file>
+        <file>web/graph.html</file>
+        <file>web/graph.js</file>
+        <file>web/vendor/arbor.js</file>
+        <file>web/vendor/cola.v3.min.js</file>
+        <file>web/vendor/cytoscape.js</file>
+        <file>web/vendor/cytoscape.min.js</file>
+        <file>web/vendor/dagre.js</file>
+        <file>web/vendor/foograph.js</file>
+        <file>web/vendor/jquery-3.1.0.min.js</file>
+        <file>web/vendor/rhill-voronoi-core.js</file>
+        <file>web/vendor/springy.js</file>
+    </qresource>
+</RCC>
